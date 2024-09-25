@@ -30,7 +30,7 @@ public class Carrello {
         for (Articolo articolo : articoli) {
             articolo.stampaDettagli();
         }
-        System.out.println("Tot Carrello: " + totCarrello + "€");
+        System.out.println("Tot Carrello: " + totCarrello + " €");
     }
 
 }

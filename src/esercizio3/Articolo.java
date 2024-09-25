@@ -40,7 +40,7 @@ public class Articolo {
     public void stampaDettagli() {
         System.out.println("Codice Articolo: " + codiceArticolo);
         System.out.println("Descrizione: " + descrizione);
-        System.out.println("Prezzo: " + prezzo + "€");
+        System.out.println("Prezzo: " + prezzo + " €");
         System.out.println("Pezzi disponibili: " + pezziDisponibili);
     }
 }
